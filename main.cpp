@@ -1,5 +1,4 @@
 #include "mbed.h"
-// #include "sample.h"
 #include "Adafruit_ST7735.h"
 #include "MyUSBSerial.h"
 
